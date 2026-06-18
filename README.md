@@ -13,7 +13,7 @@ This was a bit of jump in complexity compared to the other HWS projects. This ap
 6. Generics
 7. Working with JSON data (using Structs).
 8. NavigationLink
-9. 
+9. containerRelativeFrame()
 
 ## What it looks like
 <img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-18 at 18 28 27" src="https://github.com/user-attachments/assets/03dc002a-b1e3-421f-9a6c-72422cca4866" />
