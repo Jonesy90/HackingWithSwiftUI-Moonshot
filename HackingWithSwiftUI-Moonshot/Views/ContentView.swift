@@ -13,6 +13,10 @@
  3. For a tough challenge, add a toolbar item to ContentView that toggles between showing missions as a grid and as a list.
  */
 
+/* Navigation Challenge
+ 1. Return to project 8 (Moonshot), and upgrade it to use NavigationLink(value:). This means adding Hashable conformance, and thinking carefully how to use navigationDestination().
+*/
+
 import SwiftUI
 
 struct ContentView: View {
@@ -44,6 +48,10 @@ struct ContentView: View {
                     }
                 }
             }
+            .navigationDestination(for: Mission.self) { mission in
+                MissionView(mission: mission, astronauts: astronauts)
+            }
+            
         }
     }
 }
