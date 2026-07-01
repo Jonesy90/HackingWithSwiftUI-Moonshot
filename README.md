@@ -3,7 +3,7 @@
 ## Description
 This project lets users read and learn about the astronauts and the missions that formed NASA's Apollo space program.
 
-## What I learn't
+## What I Learned
 This was a bit of jump in complexity compared to the other HWS projects. This app introduced me to:
 1. Codable
 2. Identifiable
