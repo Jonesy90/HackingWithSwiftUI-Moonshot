@@ -20,5 +20,5 @@ This was a bit of jump in complexity compared to the other HWS projects. This ap
 <img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-18 at 18 28 36" src="https://github.com/user-attachments/assets/425bdbe1-a26e-417a-b7a3-1d3f6ac2c431" />
 <img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-18 at 18 28 49" src="https://github.com/user-attachments/assets/9ed983b6-ac8f-483e-b439-5bee9e5bc9ed" />
 
-## Personal Challenges
-TBC
+## Challenges
+- ~Updated ContentView to follow the MVVM model.~
